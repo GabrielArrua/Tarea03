@@ -1,0 +1,11 @@
+1. Qué es bootstrap?
+  Bootstrap es un framework de desarrollo web front-end libre y de código abierto para el diseño de sitios web y aplicaciones web. Contiene en HTML y plantillas de diseño basadas en CSS para la tipografía, formas, botones, navegación y otros componentes de la interfaz, así como extensiones de JavaScript opcionales. A diferencia de muchos frameworks web, que se ocupa de desarrollo front-end solamente.
+  Bootstrap es el segundo proyecto más galardonado con una estrella en GitHub, con más de 95 mil estrellas y más de 40 mil horquillas
+2. Qué es OOCSS?
+Orientado a objetos CSS (OOCSS) es una metodología CSS desarrollada y promovida por Nicole Sullivan 
+El foco de OOCSS es la idea de tratar a los elementos de página como objetos, dando todas estas clases de objetos, el tratamiento de las clases de objetos 'como entidades individuales en las hojas de estilo, y tomar desde allí.
+3. Qué es Componet CSS?
+ CCSS, o un componente CSS, es una arquitectura que simplifica la experiencia de creación de CSS para grandes aplicaciones web.
+Las grandes aplicaciones web en general, tienen una gran cantidad de archivos CSS y con frecuencia tienen muchos desarrolladores que trabajan en esos archivos al mismo tiempo. Con la llegada de tantos marcos, directrices, herramientas y metodologías (OOCSS, SMACSS, BEM, etc.), los desarrolladores necesitan una arquitectura de CSS que es fácil de mantener, manejable y escalable.
+4. Qué son preprocesadores CSS?
+Un preprocesador de CSS es una herramienta que nos permite escribir pseudo-código CSS que luego será convertido a CSS real. Ese pseudo-código se conforma de variables, condiciones, bucles o funciones. Podríamos decir que tenemos un lenguaje de programación que genera CSS.
